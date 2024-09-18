@@ -11,7 +11,7 @@
 
 - 👩🏻‍💻 My skills set : 
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,swift,androidstudio,flutter,dart,firebase,postman,figma,gradle,git,github,bash&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,swift,androidstudio,flutter,dart,firebase,postman,figma,gradle,git,github&theme=light)](https://skillicons.dev)
 
 <table>
     <tr>
