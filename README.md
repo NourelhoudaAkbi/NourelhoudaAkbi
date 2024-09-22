@@ -1,6 +1,7 @@
 <h1 align="left">Hi  👋, I'm Nour El Houda </h1>
 
-![giphy](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZwcjMzcWI2dHQyZDhsZDRoN2hjeHRuNnZzMzM0N3c4ZGk3Nmg3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ysK1iPnCLh8FnslBp4/giphy.gif)
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZwcjMzcWI2dHQyZDhsZDRoN2hjeHRuNnZzMzM0N3c4ZGk3Nmg3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ysK1iPnCLh8FnslBp4/giphy.gif" width="350" height="250" />
+
 
 
 - 🤍 I’m currently working on my first app, a journaling well being tracker. 
