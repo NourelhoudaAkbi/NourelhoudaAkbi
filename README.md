@@ -4,7 +4,7 @@
 
 
 
-- 🤍 I’m currently working on my first app, a journaling well being tracker. 
+- 🤍 I’m currently working on my portfolio doing some side projects to extend my knowledge 
 
 - 🌱 I’m currently learning **Swift**, **Kotlin**, and **Flutter & Dart**.
 
