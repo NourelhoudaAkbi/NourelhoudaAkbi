@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Swift**, **Kotlin**, and **Flutter & Dart**.
 
-- 😊 My Interests: I enjoy reading, learning new stuff and everything related to design.
+- 😊 My Interests: I enjoy reading, learning new stuff and everything about design.
 
 - 👩🏻‍💻 My skills set : 
 
