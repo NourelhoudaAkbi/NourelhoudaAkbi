@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Swift**, **Kotlin**, and **Flutter & Dart**.
 
-- 😊 My Interests: I love K-dramas, Agatha Christie books, and everything related to design.
+- 😊 My Interests: I enjoy reading, learning new stuff and everything related to design.
 
 - 👩🏻‍💻 My skills set : 
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,swift,androidstudio,flutter,dart,firebase,postman,figma,gradle,git,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,swift,androidstudio,flutter,dart,python,firebase,postman,postgresql,figma,gradle,git,github&theme=light)](https://skillicons.dev)
 
 <table>
     <tr>
